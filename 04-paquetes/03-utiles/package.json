@@ -1,0 +1,17 @@
+{
+  "name": "03-utiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DanielCG",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "moment": "^2.29.4",
+    "sharp": "^0.31.2"
+  }
+}
