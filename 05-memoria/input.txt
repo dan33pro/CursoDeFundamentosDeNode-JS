@@ -1,0 +1,4 @@
+Soy un archivo con texto para la
+clase de stream ;)
+
+Suerteee!!.
